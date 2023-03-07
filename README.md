@@ -178,7 +178,7 @@ Finally, we can take a look at the views and determine which model would be best
 ![Alt text](/img/TileView.jpg "Optional title")
 ![Alt text](/img/TableView.jpg "Optional title")
 
-In our case, Naive Bayes seems to have the best accuracy results with 990.% accurate results.
+In our case, Naive Bayes seems to have the best accuracy results with 99% accurate results.
 
 ### Conclusion
 In this research, I utilized KNIME to assess which machine learning model would be most suited to the given dataset.
